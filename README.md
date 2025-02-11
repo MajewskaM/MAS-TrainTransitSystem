@@ -23,6 +23,9 @@ Agents in the system:
 - 10 Tunnel Agents
 - 1 Transit System Agent
 
+## System Configuration
+<img width="100%" alt="system-configuration" src="https://github.com/MajewskaM/MAS-TrainTransitSystem/blob/main/system-configuration-schema.jpg">
+
 
 ## Multiagent Resource Allocation Problem
 This project addresses the challenge of allocating shared resources among agents by 
